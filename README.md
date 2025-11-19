@@ -36,4 +36,5 @@ Tujuannya adalah untuk mengembangkan sistem informasi berbasis web yang berfokus
 ---
 
 
-✍ *Dibuat dengan 1liter americano 4 shot oleh HANIF DENGAN KEMALAS-MALASAN NYA.*
+✍ *Dibuat dengan 1liter americano 4 shot*
+
